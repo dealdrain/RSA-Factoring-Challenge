@@ -1,5 +1,6 @@
-
-m sys import argv
+#!/usr/bin/env python3
+""" Factor numbers """
+from sys import argv
 from math import sqrt
 
 
