@@ -1,4 +1,4 @@
-#include "factor.h"
+#include "factor_header.h"
 /**
  * main- main function
  * @argc: count .

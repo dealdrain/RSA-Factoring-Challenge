@@ -1,4 +1,4 @@
-#include "factor.h"
+#include "factor_header.h"
 
 /**
  * factorize - Factorize a number and print its prime factors.
