@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# is a factors challenge
 
 check_factor()
 {
@@ -19,6 +18,7 @@ check_factor()
         else
                 num2=$3
         fi
+
 
         num1=$2
         num=$(echo "$1" | tr ':' '=')
